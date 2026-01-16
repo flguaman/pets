@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Pets.ec",
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode"
+    },
+    "language": {
+      "english": "Switch to English",
+      "spanish": "Switch to Spanish"
+    },
+    "device": {
+      "mobile": "Mobile Mode",
+      "desktop": "Desktop Mode"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "database": "QR Identification",
+    "profile": "Pet Profile",
+    "adoption": "Adoption & Store",
+    "vets": "Veterinarians & Foundations",
+    "alerts": "Alerts",
+    "emotions": "AI"
+  },
+  "common": {
+    "download": "Download",
+    "share": "Share",
+    "call": "Call",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "pet": {
+    "name": "Name",
+    "owner": "Owner",
+    "phone": "Phone",
+    "address": "Address",
+    "type": "Type",
+    "breed": "Breed",
+    "age": "Age",
+    "illness": "Illness",
+    "observations": "Observations",
+    "medicalHistory": "Medical History",
+    "vaccinations": "Vaccinations",
+    "nextAppointment": "Next Appointment",
+    "emergency": "Emergency Information",
+    "status": {
+      "lost": "Lost",
+      "found": "Found",
+      "adoption": "For adoption",
+      "stolen": "Stolen",
+      "healthy": "Healthy",
+      "sick": "Sick",
+      "treatment": "Under treatment"
+    }
+  },
+  "profile": {
+    "title": "Pet Profile",
+    "edit": "Edit Profile",
+    "info": "General Information",
+    "medical": "Medical History",
+    "gallery": "Gallery",
+    "qr": {
+      "show": "Show QR Code",
+      "hide": "Hide QR Code",
+      "download": "Download QR",
+      "share": "Share QR"
+    }
+  }
+}

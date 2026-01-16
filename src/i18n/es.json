@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Mascotas.ec",
+    "theme": {
+      "light": "Modo Claro",
+      "dark": "Modo Oscuro"
+    },
+    "language": {
+      "english": "Cambiar a Inglés",
+      "spanish": "Cambiar a Español"
+    },
+    "device": {
+      "mobile": "Modo Móvil",
+      "desktop": "Modo Escritorio"
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "database": "Identificación QR",
+    "profile": "Perfil de Mascota",
+    "adoption": "Adopción y Tienda",
+    "vets": "Veterinarias y Fundaciones",
+    "alerts": "Alertas",
+    "emotions": "IA"
+  },
+  "common": {
+    "download": "Descargar",
+    "share": "Compartir",
+    "call": "Llamar",
+    "edit": "Editar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "delete": "Eliminar",
+    "confirm": "Confirmar",
+    "back": "Volver"
+  },
+  "pet": {
+    "name": "Nombre",
+    "owner": "Dueño",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "type": "Tipo",
+    "breed": "Raza",
+    "age": "Edad",
+    "illness": "Enfermedad",
+    "observations": "Observaciones",
+    "medicalHistory": "Historial Médico",
+    "vaccinations": "Vacunas",
+    "nextAppointment": "Próxima Cita",
+    "emergency": "Información de Emergencia",
+    "status": {
+      "lost": "Perdido",
+      "found": "Encontrado",
+      "adoption": "En adopción",
+      "stolen": "Robado",
+      "healthy": "Saludable",
+      "sick": "Enfermo",
+      "treatment": "En tratamiento"
+    }
+  },
+  "profile": {
+    "title": "Perfil de Mascota",
+    "edit": "Editar Perfil",
+    "info": "Información General",
+    "medical": "Historial Médico",
+    "gallery": "Galería",
+    "qr": {
+      "show": "Mostrar Código QR",
+      "hide": "Ocultar Código QR",
+      "download": "Descargar QR",
+      "share": "Compartir QR"
+    }
+  }
+}
